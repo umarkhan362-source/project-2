@@ -61,6 +61,6 @@ The system successfully converts receipt images into editable digital text, redu
 ---
 
 ## Author
-Ammara Akhtar  
-Roll No: 04102213008  
+ Muhammad Umar khan 
+Roll No: 04102213017  
 Course: Introduction to AI
